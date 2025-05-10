@@ -3,3 +3,13 @@ payload:
 #  - '+.muscdn.com'
 #  - '+.musical.ly'
 # - p16-tiktokcdn-com.akamaized.net
+
+  - '+.tmdb.org'
+  - '+.omdbapi.com'
+  - '+.themoviedb.org'
+  - '+.dssedge.com'
+  - '+.firetvcaptiveportal.com'
+  - '+.aws.dev'
+  - '+.ntp-fireos.com'
+  - '+.lilyemby.my'
+  - '+.lilyyaya.top'
