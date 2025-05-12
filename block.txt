@@ -8,6 +8,16 @@ payload:
   - '+.bandisoft.com'
   - '+.bandicam.com'
   - '+.softether-network.net'
+  - '+.flash.cn^$important'
+  - '+.quickconnect.to^$important'
+  - '+.keepalive.softether.org^$important'
+  - '+.www.yahoo.com^$important'
+  - '+.m5-zb.amap.com^$important'
+  - '+.ad.chinanums.com^$important'
+  - '+.ads-shopping.shouqianba.com^$important'
+  - '+.optimus-ads-ykx.amap.com^$important'
+
+
   - 'api.io.mi.com''
   - 'device.io.mi.com''
   - '519332DA.rtc.youme.im'
