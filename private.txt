@@ -13,3 +13,4 @@ payload:
   - '+.ntp-fireos.com'
   - '+.lilyemby.my'
   - '+.lilyyaya.top'
+  - '+.wepc.au'
