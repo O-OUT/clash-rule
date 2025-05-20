@@ -4,6 +4,8 @@ payload:
 #  - '+.musical.ly'
 # - p16-tiktokcdn-com.akamaized.net
 
+  - '+.197811.xyz'
+  - '+.jnj.com'
   - '+.tmdb.org'
   - '+.omdbapi.com'
   - '+.themoviedb.org'
