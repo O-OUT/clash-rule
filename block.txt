@@ -18,8 +18,8 @@ payload:
   - '+.optimus-ads-ykx.amap.com^$important'
 
 
-  - 'api.io.mi.com''
-  - 'device.io.mi.com''
+  - 'api.io.mi.com'
+  - 'device.io.mi.com'
   - '519332DA.rtc.youme.im'
   - 'ad.doubleclick.net'
   - 'ad.hpplay.cn'
