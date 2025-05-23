@@ -9,7 +9,7 @@ payload:
 
   - '+.nodeseek.com'
   - '+.hostloc.com'
-  - '+.197811.xyz'
+#  - '+.197811.xyz'
   - '+.jnj.com'
   - '+.tmdb.org'
   - '+.omdbapi.com'
