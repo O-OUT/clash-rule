@@ -21,4 +21,4 @@ payload:
   - '+.lilyemby.my'
   - '+.lilyyaya.top'
   - '+.wepc.au'
-hostloc.com
+
