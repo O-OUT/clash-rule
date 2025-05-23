@@ -4,6 +4,11 @@ payload:
 #  - '+.musical.ly'
 # - p16-tiktokcdn-com.akamaized.net
 
+
+
+
+  - '+.nodeseek.com'
+  - '+.hostloc.com'
   - '+.197811.xyz'
   - '+.jnj.com'
   - '+.tmdb.org'
@@ -16,3 +21,4 @@ payload:
   - '+.lilyemby.my'
   - '+.lilyyaya.top'
   - '+.wepc.au'
+hostloc.com
