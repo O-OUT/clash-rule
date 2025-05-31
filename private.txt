@@ -10,6 +10,7 @@ payload:
   - '+.nodeseek.com'
   - '+.hostloc.com'
   - '+.googleapis.cn'
+  - `+.gstatic.com`
   - '+.jnj.com'
   - '+.tmdb.org'
   - '+.omdbapi.com'
