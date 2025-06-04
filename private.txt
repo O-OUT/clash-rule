@@ -22,4 +22,5 @@ payload:
   - '+.lilyemby.my'
   - '+.lilyyaya.top'
   - '+.wepc.au'
+  - safebrowsing.googleapis.com
 
