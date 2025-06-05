@@ -23,5 +23,5 @@ payload:
   - '+.lilyyaya.top'
   - '+.wepc.au'
   - safebrowsing.googleapis.com
-  - '+.tailscale.com'
+#  - '+.tailscale.com'
 
