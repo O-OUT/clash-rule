@@ -24,4 +24,4 @@ payload:
   - '+.wepc.au'
   - safebrowsing.googleapis.com
   - '+.instagram.com'
-
+  - '+.armbian.com'
