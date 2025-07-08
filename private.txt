@@ -25,3 +25,4 @@ payload:
   - safebrowsing.googleapis.com
   - '+.instagram.com'
   - '+.armbian.com'
+  - '+.docker.io'
