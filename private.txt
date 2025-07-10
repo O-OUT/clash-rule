@@ -27,3 +27,4 @@ payload:
   - '+.armbian.com'
   - '+.docker.io'
   - '+.docker.com'
+  - '+.amazonsilk.com'
