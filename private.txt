@@ -28,3 +28,4 @@ payload:
   - '+.docker.io'
   - '+.docker.com'
   - '+.amazonsilk.com'
+  - '+.lilyyaya.top'
