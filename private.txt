@@ -19,8 +19,8 @@ payload:
   - '+.firetvcaptiveportal.com'
   - '+.aws.dev'
   - '+.ntp-fireos.com'
-  - '+.lilyemby.my'
-#  - '+.lilyyaya.top'
+#  - '+.lilyemby.my'
+  - '+.hdfans.org'
   - '+.wepc.au'
   - safebrowsing.googleapis.com
   - '+.instagram.com'
@@ -30,4 +30,4 @@ payload:
   - '+.amazonsilk.com'
   - '+.lilyyaya.top'
   - t.me
-#  - cf.lilyemby.my
+  - cf.lilyemby.my
