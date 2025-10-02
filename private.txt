@@ -30,4 +30,4 @@ payload:
   - '+.amazonsilk.com'
   - '+.lilyyaya.top'
   - t.me
-  - cf.lilyemby.my
+#  - cf.lilyemby.my
