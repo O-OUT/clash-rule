@@ -19,7 +19,7 @@ payload:
   - '+.firetvcaptiveportal.com'
   - '+.aws.dev'
   - '+.ntp-fireos.com'
-#  - '+.lilyemby.my'
+  - '+.disneyplus.com'
   - '+.hdfans.org'
   - '+.wepc.au'
   - safebrowsing.googleapis.com
