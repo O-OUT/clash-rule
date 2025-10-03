@@ -29,5 +29,6 @@ payload:
   - '+.docker.com'
   - '+.amazonsilk.com'
   - '+.lilyyaya.top'
+  - '+.docker.com'
   - t.me
 #  - cf.lilyemby.my
