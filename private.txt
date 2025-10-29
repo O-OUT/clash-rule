@@ -27,3 +27,4 @@ payload:
   - '+.docker.io'
   - '+.docker.com'
   - '+.amazonsilk.com'
+  - '+.reddit.com'
