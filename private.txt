@@ -29,3 +29,4 @@ payload:
   - '+.amazonsilk.com'
   - '+.reddit.com'
   - '+.apkpure.com'
+  - '+.lilyemby.my'
