@@ -28,3 +28,4 @@ payload:
   - '+.docker.com'
   - '+.amazonsilk.com'
   - '+.reddit.com'
+  - '+.apkpure.com'
