@@ -30,3 +30,4 @@ payload:
   - '+.reddit.com'
   - '+.apkpure.com'
   - '+.lilyemby.my'
+  - '+.w0chp.radio'
