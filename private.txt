@@ -31,3 +31,4 @@ payload:
   - '+.apkpure.com'
   - '+.lilyemby.my'
   - '+.w0chp.radio'
+  - '+.github.com'
