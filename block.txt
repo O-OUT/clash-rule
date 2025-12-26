@@ -12,7 +12,6 @@ payload:
   - '+.quickconnect.to^$important'
   - '+.keepalive.softether.org^$important'
   - '+.www.yahoo.com^$important'
-  - '+.m5-zb.amap.com^$important'
   - '+.ad.chinanums.com^$important'
   - '+.ads-shopping.shouqianba.com^$important'
   - '+.optimus-ads-ykx.amap.com^$important'
