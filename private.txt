@@ -32,3 +32,4 @@ payload:
   - '+.lilyemby.my'
   - '+.w0chp.radio'
   - '+.pureapk.com'
+  - '+.demdex.net'
