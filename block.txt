@@ -11,7 +11,7 @@ payload:
   - '+.flash.cn'
   - '+.quickconnect.to'
   - '+.keepalive.softether.org'
-  - '+.map.baidu.com'
+#  - '+.map.baidu.com'
 #  - '+.vivo.com.cn'
 
   - api.io.mi.com
