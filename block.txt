@@ -12,7 +12,7 @@ payload:
   - '+.quickconnect.to'
   - '+.keepalive.softether.org'
   - '+.map.baidu.com'
-  - '+.vivo.com.cn'
+#  - '+.vivo.com.cn'
 
   - api.io.mi.com
   - device.io.mi.com
