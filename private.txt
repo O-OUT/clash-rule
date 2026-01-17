@@ -33,4 +33,4 @@ payload:
   - '+.w0chp.radio'
   - '+.pureapk.com'
   - '+.demdex.net'
-  - '+.tailscale.com'
+#  - '+.tailscale.com'
