@@ -1,8 +1,5 @@
 ---
-
 payload:
-
-'
 # --- Netflix ---
   - '+.fast.com'
   - '+.netflix.ca'
@@ -28,7 +25,6 @@ payload:
   -'+.netflixdnstest9.com'
   -'+.netflixdnstest10.com'
   -'+.netflix.com.edgesuite.net'
-  -'+.'
 # --- Disney+ ---'
   -'+.disney.asia'
   -'+.disney.be'
@@ -149,7 +145,6 @@ payload:
   -'+.thestationbymaker.com'
   -'+.thisispolaris.com'
   -'+.watchdisneyfe.com'
-'
 # --- OpenAI / ChatGPT ---'
   -'+.chat.com'
   -'+.chatgpt.com'
@@ -167,7 +162,6 @@ payload:
   -'+.chatgpt.livekit.cloud'
   -'+.host.livekit.cloud'
   -'+.turn.livekit.cloud'
-'
 # --- Google AI & Services ---'
   -'+.deepmind.com'
   -'+.deepmind.google'
@@ -226,7 +220,6 @@ payload:
   -'+.iam.soy'
   -'+.new.day'
   -'+.xn--p8j9a0d9c9a.xn--q9jyb4c'
-'
 # --- Google Scholar ---'
   -'+.scholar.google.ae'
   -'+.scholar.google.at'
@@ -304,7 +297,6 @@ payload:
   -'+.scholar.google.sk'
   -'+.scholar.googleusercontent.com'
   -'+.scholar.l.google.com'
-'
 # --- PKI & MTALK ---'
   -'+.pki.goog'
   -'+.pki-goog.l.google.com'
