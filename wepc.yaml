@@ -1,6 +1,5 @@
----
-# Generated from https://github.com/v2fly/domain-list-community/blob/master/data/google
 payload:
+  # --- Netflix ---
   - '+.fast.com'
   - '+.netflix.ca'
   - '+.netflix.com'
@@ -25,7 +24,8 @@ payload:
   - '+.netflixdnstest9.com'
   - '+.netflixdnstest10.com'
   - '+.netflix.com.edgesuite.net'
-# --- Disney+ ---'
+
+  # --- Disney+ ---
   - '+.disney.asia'
   - '+.disney.be'
   - '+.disney.bg'
@@ -145,7 +145,8 @@ payload:
   - '+.thestationbymaker.com'
   - '+.thisispolaris.com'
   - '+.watchdisneyfe.com'
-# --- OpenAI / ChatGPT ---'
+
+  # --- OpenAI / ChatGPT ---
   - '+.chat.com'
   - '+.chatgpt.com'
   - '+.crixet.com'
@@ -162,7 +163,8 @@ payload:
   - '+.chatgpt.livekit.cloud'
   - '+.host.livekit.cloud'
   - '+.turn.livekit.cloud'
-# --- Google AI & Services ---'
+
+  # --- Google AI & Services ---
   - '+.deepmind.com'
   - '+.deepmind.google'
   - '+.geller-pa.googleapis.com'
@@ -220,7 +222,8 @@ payload:
   - '+.iam.soy'
   - '+.new.day'
   - '+.xn--p8j9a0d9c9a.xn--q9jyb4c'
-# --- Google Scholar ---'
+
+  # --- Google Scholar ---
   - '+.scholar.google.ae'
   - '+.scholar.google.at'
   - '+.scholar.google.be'
@@ -297,7 +300,8 @@ payload:
   - '+.scholar.google.sk'
   - '+.scholar.googleusercontent.com'
   - '+.scholar.l.google.com'
-# --- PKI & MTALK ---'
+
+  # --- PKI & MTALK ---
   - '+.pki.goog'
   - '+.pki-goog.l.google.com'
   - '+.c.pki.goog'
