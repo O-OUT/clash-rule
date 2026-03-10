@@ -1,15 +1,395 @@
-payload:
+include:abc
+include:bamtech
+include:espn
+include:hotstar
+include:marvel
+include:nationalgeographic
+include:starplus
 
-DOMAIN,ai.google.dev
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,makersuite.google.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,apis.google.com
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
+disney.asia
+disney.be
+disney.bg
+disney.ca
+disney.ch
+disney.co.il
+disney.co.jp
+disney.co.kr
+disney.co.th
+disney.co.uk
+disney.co.za
+disney.com
+disney.com.au
+disney.com.br
+disney.com.hk
+disney.com.tw
+disney.cz
+disney.de
+disney.dk
+disney.es
+disney.fi
+disney.fr
+disney.gr
+disney.hu
+disney.id
+disney.in
+disney.io
+disney.it
+disney.my
+disney.nl
+disney.no
+disney.ph
+disney.pl
+disney.pt
+disney.ro
+disney.ru
+disney.se
+disney.sg
+
+# Others
+20thcenturystudios.com.au
+20thcenturystudios.com.br
+20thcenturystudios.jp
+adventuresbydisney.com
+babble.com
+babyzone.com
+bamgrid.com
+beautyandthebeastmusical.co.uk
+dilcdn.com
+disney-asia.com
+disney-discount.com
+disney-plus.net
+disney-portal.my.onetrust.com
+disney-studio.com
+disney-studio.net
+disneyadsales.com
+disneyarena.com
+disneyaulani.com
+disneybaby.com
+disneycareers.com
+disneychannelonstage.com
+disneychannelroadtrip.com
+disneycruisebrasil.com
+disneyenconcert.com
+disneyiejobs.com
+disneyinflight.com
+disneyinternational.com
+disneyinternationalhd.com
+disneyjunior.com
+disneyjuniortreataday.com
+disneylatino.com
+disneymagicmoments.co.il
+disneymagicmoments.co.uk
+disneymagicmoments.co.za
+disneymagicmoments.de
+disneymagicmoments.es
+disneymagicmoments.fr
+disneymagicmoments.gen.tr
+disneymagicmoments.gr
+disneymagicmoments.it
+disneymagicmoments.pl
+disneymagicmomentsme.com
+disneyme.com
+disneymeetingsandevents.com
+disneymovieinsiders.com
+disneymusicpromotion.com
+disneynewseries.com
+disneynow.com
+disneypeoplesurveys.com
+disneyplus.bn5x.net
+disneyplus.com
+disneyplus.com.ssl.sc.omtrdc.net
+disneyredirects.com
+disneysrivieraresort.com
+disneystore.com
+disneystreaming.com
+disneysubscription.com
+disneytickets.co.uk
+disneyturkiye.com.tr
+disneytvajobs.com
+disneyworld-go.com
+dssott.com
+go-disneyworldgo.com
+go.com
+mickey.tv
+moviesanywhere.com
+nomadlandmovie.ch
+playmation.com
+shopdisney.com
+shops-disney.com
+sorcerersarena.com
+spaindisney.com
+star-brasil.com
+star-latam.com
+starwars.com
+starwarsgalacticstarcruiser.com
+starwarskids.com
+streamingdisney.net
+thestationbymaker.com
+thisispolaris.com
+watchdisneyfe.com
+
+# tracking
+full:disney.my.sentry.io @ads
+  
+  
+  
+  # Main domain
+chat.com
+chatgpt.com
+crixet.com
+oaistatic.com
+oaiusercontent.com
+openai.com
+sora.com
+
+# CDN & API
+openai.com.cdn.cloudflare.net
+full:openaiapi-site.azureedge.net
+full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+full:openaicom.imgix.net
+full:openaicomproductionae4b.blob.core.windows.net
+full:production-openaicom-storage.azureedge.net
+regexp:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+
+# tracking
+full:o33249.ingest.sentry.io @ads
+full:browser-intake-datadoghq.com @ads
+
+# Advanced Voice
+chatgpt.livekit.cloud
+host.livekit.cloud
+turn.livekit.cloud
+
+
+# This list is for backward compatibility
+
+
+# Google DeepMind
+deepmind.com
+deepmind.google
+
+# Google Generative Language API
+geller-pa.googleapis.com
+generativelanguage.googleapis.com
+proactivebackend-pa.googleapis.com
+robinfrontend-pa.googleapis.com
+
+# Google AI Studio
+full:ai.google.dev
+full:alkalicore-pa.clients6.google.com
+full:alkalimakersuite-pa.clients6.google.com
+full:webchannel-alkalimakersuite-pa.clients6.google.com
+generativeai.google
+makersuite.google.com
+
+ai.studio
+aistudio.google.com
+bard.google.com
+gemini.google
+gemini.google.com
+
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+full:cloudaicompanion.googleapis.com
+full:cloudcode-pa.googleapis.com
+full:daily-cloudcode-pa.googleapis.com
+
+# NotebookLM
+full:notebooklm-pa.googleapis.com
+full:notebooklm.googleapis.com
+notebooklm.google
+notebooklm.google.com
+
+# Jules
+jules.google
+jules.google.com
+
+# Google AI Labs
+labs.google
+labs.google.com
+aisandbox-pa.googleapis.com
+
+# Android Studio Gemini Code Assist
+aida.googleapis.com
+
+# Opal
+opal.google
+opal.google.com
+
+# Antigravity
+full:antigravity-pa.googleapis.com
+full:antigravity.googleapis.com
+antigravity.google
+antigravity-unleash.goog
+
+
+googleplay.com
+play-fe.googleapis.com
+play-games.googleusercontent.com
+play-lh.googleusercontent.com
+play.google.com
+play.googleapis.com
+xn--ngstr-lra8j.com
+
+# if connect to services.googleapis.cn directly,
+# then these domains will be used.
+# 北京 (2x3)、上海 (ni5)、广州 (j5o)
+regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$ @cn
+# the same but DNS pollution in China mainland.
+regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$ @cn
+
+full:redirector.c.play.google.com @cn
+
+charlestonroadregistry.com
+crr.com
+registry.google
+
+get.app
+get.dev
+get.how
+get.new
+get.page
+get.rsvp
+hey.boo
+iam.soy
+new.day
+xn--p8j9a0d9c9a.xn--q9jyb4c # はじめよう.みんな
+
+# Reference: https://www.registry.google/for-partners/
+# For convenience, please do NOT sort this file.
+
+meme
+ing
+foo
+zip
+mov
+nexus
+dad
+phd
+prof
+esq
+rsvp
+boo
+day
+new
+dev
+page
+app
+how
+soy
+xn--q9jyb4c # .みんな
+
+
+full:scholar.google.ae
+full:scholar.google.at
+full:scholar.google.be
+full:scholar.google.bg
+full:scholar.google.ca
+full:scholar.google.cat
+full:scholar.google.ch
+full:scholar.google.cl
+full:scholar.google.cn
+full:scholar.google.co.cr
+full:scholar.google.co.id
+full:scholar.google.co.il
+full:scholar.google.co.in
+full:scholar.google.co.jp
+full:scholar.google.co.kr
+full:scholar.google.co.nz
+full:scholar.google.co.th
+full:scholar.google.co.uk
+full:scholar.google.co.ve
+full:scholar.google.co.za
+full:scholar.google.com
+full:scholar.google.com.ar
+full:scholar.google.com.au
+full:scholar.google.com.bo
+full:scholar.google.com.br
+full:scholar.google.com.co
+full:scholar.google.com.cu
+full:scholar.google.com.do
+full:scholar.google.com.ec
+full:scholar.google.com.eg
+full:scholar.google.com.gt
+full:scholar.google.com.hk
+full:scholar.google.com.ly
+full:scholar.google.com.mx
+full:scholar.google.com.my
+full:scholar.google.com.ni
+full:scholar.google.com.pa
+full:scholar.google.com.pe
+full:scholar.google.com.ph
+full:scholar.google.com.pk
+full:scholar.google.com.pr
+full:scholar.google.com.py
+full:scholar.google.com.sg
+full:scholar.google.com.sv
+full:scholar.google.com.tr
+full:scholar.google.com.tw
+full:scholar.google.com.ua
+full:scholar.google.com.uy
+full:scholar.google.com.vn
+full:scholar.google.cz
+full:scholar.google.de
+full:scholar.google.dk
+full:scholar.google.es
+full:scholar.google.fi
+full:scholar.google.fr
+full:scholar.google.gr
+full:scholar.google.hn
+full:scholar.google.hr
+full:scholar.google.hu
+full:scholar.google.is
+full:scholar.google.it
+full:scholar.google.li
+full:scholar.google.lt
+full:scholar.google.lu
+full:scholar.google.lv
+full:scholar.google.nl
+full:scholar.google.no
+full:scholar.google.pl
+full:scholar.google.pt
+full:scholar.google.ro
+full:scholar.google.ru
+full:scholar.google.se
+full:scholar.google.si
+full:scholar.google.sk
+full:scholar.googleusercontent.com
+full:scholar.l.google.com
+
+
+pki.goog
+
+full:pki-goog.l.google.com @cn
+
+full:c.pki.goog @cn
+full:i.pki.goog @cn
+full:o.pki.goog @cn
+
+# Google Public CA API Endpoint
+full:publicca.googleapis.com
+full:preprod-publicca.googleapis.com
+
+# Deprecated earlier
+full:clients1.google.com
+full:pki.google.com
+
+# Deprecated recently
+full:crl.pki.goog @cn
+full:crls.pki.goog @cn
+full:ocsp.pki.goog @cn
+
+
+full:alt1-mtalk.google.com @!cn
+full:alt2-mtalk.google.com @!cn
+full:alt3-mtalk.google.com @!cn
+full:alt4-mtalk.google.com @!cn
+full:alt5-mtalk.google.com @!cn
+full:alt6-mtalk.google.com @!cn
+full:alt7-mtalk.google.com
+full:alt8-mtalk.google.com
+full:mtalk-dev.google.com
+full:mtalk-staging.google.com
+full:mtalk.google.com @!cn
+full:mtalk4.google.com
+
