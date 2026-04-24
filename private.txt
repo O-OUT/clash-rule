@@ -34,5 +34,5 @@ payload:
   - '+.pureapk.com'
   - '+.demdex.net'
   - '+.nvidia.com'
-
+  - `+.ciii.club`
 
