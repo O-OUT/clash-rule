@@ -35,4 +35,4 @@ payload:
   - '+.demdex.net'
   - '+.nvidia.com'
   - `+.ciii.club`
-
+  - '+.99dun.cc'
