@@ -36,3 +36,23 @@ payload:
   - '+.nvidia.com'
   - `+.ciii.club`
   - '+.99dun.cc'
+  - '+.play.google.com
+  - '+.play.googleapis.com
+  - '+.googleapis.com
+  - '+.googleusercontent.com
+  - '+.gvt1.com
+  - '+.gvt2.com
+  - '+.gvt3.com
+  - '+.gvt1.cn
+  - '+.gvt2.cn
+  - '+.google.com
+  - '+.google.co.uk
+  - '+.googleadservices.com
+  - '+.googlesyndication.com
+  - '+.googletagmanager.com
+  - '+.google-analytics.com
+  - '+.ggpht.com
+  - '+.android.com
+  - '+.android.clients.google.com
+  - '+.dl.google.com
+  - '+.dl-ssl.google.com
