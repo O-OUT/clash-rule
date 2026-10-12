@@ -56,4 +56,4 @@ payload:
   - '+.android.clients.google.com
   - '+.dl.google.com
   - '+.dl-ssl.google.com
-  - '+.，meta.ai
+  - '+.meta.ai
