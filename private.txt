@@ -57,3 +57,5 @@ payload:
   - '+.dl.google.com
   - '+.dl-ssl.google.com
   - '+.meta.ai
+  - '+.muse.ai
+  - '+.metaaivm.com
