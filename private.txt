@@ -61,4 +61,5 @@ payload:
   - '+.metaaivm.com
   - hatch-api.meta.ai
   - hatch.metaaivm.com
+  - ohttp-relay-safebrowsing-android.google.fastly-edge.com
 
